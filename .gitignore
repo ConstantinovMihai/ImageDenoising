@@ -1,0 +1,7 @@
+/figures/
+/BSDS300-images/
+/data/
+/notebooks/
+/weights/
+/venv/
+*.pyc
